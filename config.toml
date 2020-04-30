@@ -45,6 +45,11 @@ URL = "author"
 name = "Author"
 weight = 2
 
+[[menu.main]]
+URL = "https://www.youtube.com/channel/UCnLts5QZ1-RChEYyF9MT4xg/featured"
+name = "YouTube"
+weight = 3
+
 # footer menu
 [[menu.footer]]
 URL = "what"
@@ -56,6 +61,10 @@ URL = "author"
 name = "Author"
 weight = 2
 
+[[menu.footer]]
+URL = "https://www.youtube.com/channel/UCnLts5QZ1-RChEYyF9MT4xg/featured"
+name = "YouTube"
+weight = 3
 
 ######################### Default Parameters ###########################
 [params]
