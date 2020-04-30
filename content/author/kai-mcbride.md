@@ -1,6 +1,6 @@
 +++
 title = "Kai McBride"
-image = "/images/author/kai-mcbride.jpg"
+image = "/images/author/kai-mcbride-motorcycle.jpg"
 description = "Host of Kai's Photo Topic"
 +++
 
