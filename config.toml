@@ -1,4 +1,4 @@
-baseURL = "http://lunacornua.com/"
+baseURL = "https://lunacornua.com/"
 languageCode = "en-us"
 title = "Luna Cornua"
 theme = "northendlab-hugo"
@@ -6,6 +6,7 @@ theme = "northendlab-hugo"
 paginate = "5"
 # post excerpt
 summaryLength = "10"
+
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
