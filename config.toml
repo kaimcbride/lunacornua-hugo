@@ -1,3 +1,115 @@
 baseURL = "http://lunacornua.com/"
 languageCode = "en-us"
 title = "Luna Cornua"
+theme = "northendlab-hugo"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "what"
+name = "Luna What?"
+weight = 1
+
+[[menu.main]]
+URL = "author"
+name = "Author"
+weight = 2
+
+# footer menu
+[[menu.footer]]
+URL = "what"
+name = "Luna What?"
+weight = 1
+
+[[menu.footer]]
+URL = "author"
+name = "Author"
+weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/LunaCornuaLogoBlack.svg"
+#logo = "images/logo.svg"
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2020 [Kai McBride](https://kaimcbride.com) All Rights Reserved"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = false
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg-typewriter.jpg"
+title = "Home of <br>Kai's Photo Topic"
+image = ""
+
+######################## Zoom Link ###############################
+[params.zoom]
+enable = true
+title = "Traveling to Photograph: Rewards and Pitfalls"
+date = "Saturday May 2nd, 7pm Eastern"
+[params.zoom.button]
+enable = true
+label = "Join Zoom Meeting Here"
+link = "http://bit.ly/KPT-May2"
+
+######################## call to action ###############################
+[params.cta]
+enable = false
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+[params.cta.button]
+enable = true
+label = "Visit Here"
+link = "https://gethugothemes.com/shop/"
+
+
