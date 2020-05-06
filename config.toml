@@ -103,13 +103,13 @@ image = ""
 
 ######################## Zoom Link ###############################
 [params.zoom]
-enable = false
-title = "Traveling to Photograph: Rewards and Pitfalls"
-date = "Saturday May 2nd, 7pm Eastern"
+enable = true
+title = "The Photographer John Szarkowski"
+date = "Saturday May 9th, 7pm Eastern"
 [params.zoom.button]
 enable = true
 label = "Join Zoom Meeting Here"
-link = "http://bit.ly/KPT-May2"
+link = "http://bit.ly/KPT-May9"
 
 ######################## call to action ###############################
 [params.cta]

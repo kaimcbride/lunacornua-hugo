@@ -49,7 +49,6 @@ people contributes to strangers opening up their homes to her. Some of these
 portraits can be found on the _Down by Law_ section of her site. Please visit
 Patrice's website [patricehelmar.com](http://patricehelmar.com)
 
-
-
-
-
+At the end of the call __Tony Chirinos__ spoke about his project involving
+fighting roosters, _Cocks_, which he made over a seven year period on the Colombian island of
+San Andrés. You can see the work on his website: [Tony Chirinos](https://www.tonychirinos.com/#/cocks/)
