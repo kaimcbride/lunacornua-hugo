@@ -74,12 +74,12 @@ home = "Home"
 logo = "images/LunaCornuaLogoBlack.svg"
 #logo = "images/logo.svg"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Kai McBride"
+description = "Home for Kai's Photo Topic"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-165839879-1" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
