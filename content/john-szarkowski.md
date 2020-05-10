@@ -24,12 +24,6 @@ years pronounce the last name slightly differently. I've settled on <br>_"Shar-c
 on how a close friend of his always pronounces it, though I noticed in the New York Times
 obituary they said _"shar-COW-ski"_, so you decide.
 
-_The Books_<br>
-[The Idea of Louis Sullivan](https://www.amazon.com/Idea-Louis-Sullivan-John-Szarkowski/dp/0821226673)<br>
-[The Face of Minnesota](https://www.amazon.com/Face-Minnesota-John-Szarkowski/dp/0816654484)<br>
-[Mr. Bristol's Barn: With Excerpts from Mr. Blinn's Diary](https://www.amazon.com/Mr-Bristols-Barn-Excerpts-Blinns/dp/0810942860)<br>
-[John Szarkowski: Photographs](https://www.amazon.com/John-Szarkowski-Photographs/dp/0821261983)<br>
-
 I featured some portraits of Mr. Szarkowski in the presentation by these photographers (in order):<br>
 <ul>
 	<li>Lee Friedlander (title photo and through car window)
@@ -40,6 +34,13 @@ I featured some portraits of Mr. Szarkowski in the presentation by these photogr
 	<li>Lee Friedlander (jumping w/Garry Winogrand; With Poodle; On the Farm; With 4x5 Camera)
 	<li>Greg Coniff (Sitting on porch at the farm)
 </ul>
+
+_The Books_<br>
+[The Idea of Louis Sullivan](https://www.amazon.com/Idea-Louis-Sullivan-John-Szarkowski/dp/0821226673)<br>
+[The Face of Minnesota](https://www.amazon.com/Face-Minnesota-John-Szarkowski/dp/0816654484)<br>
+[Mr. Bristol's Barn: With Excerpts from Mr. Blinn's Diary](https://www.amazon.com/Mr-Bristols-Barn-Excerpts-Blinns/dp/0810942860)<br>
+[John Szarkowski: Photographs](https://www.amazon.com/John-Szarkowski-Photographs/dp/0821261983)<br>
+ [Kindergarten Chats by Louis Sullivan](https://www.amazon.com/Kindergarten-Writings-Documents-published-Publications/dp/B00E32RCPC)<br>
 
 Thank you to [Geoffrey James](https://en.wikipedia.org/wiki/Geoffrey_James_(photographer)) for joining and sharing some stories about John. Here is the book that Geoffrey mentions that Szarkowski suggested he read<br>
 [Travels and Traditions of Waterfowl by H.A. Hochbaum](https://www.amazon.com/Travels-Traditions-Waterfowl-Albert-Hochbaum/dp/B0000CJEOW)
