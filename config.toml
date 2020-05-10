@@ -103,7 +103,7 @@ image = ""
 
 ######################## Zoom Link ###############################
 [params.zoom]
-enable = true
+enable = false
 title = "The Photographer John Szarkowski"
 date = "Saturday May 9th, 7pm Eastern"
 [params.zoom.button]
