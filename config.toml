@@ -103,7 +103,7 @@ image = ""
 
 ######################## Zoom Link ###############################
 [params.zoom]
-enable = true
+enable = false
 title = "Camera Stores: Haunts, Hangouts, & Jobs"
 date = "Saturday May 16th, 7pm Eastern"
 [params.zoom.button]
