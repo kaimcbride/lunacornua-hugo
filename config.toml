@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Luna Cornua"
 theme = "northendlab-hugo"
 # post pagination
-paginate = "5"
+paginate = "10"
 # post excerpt
 summaryLength = "10"
 

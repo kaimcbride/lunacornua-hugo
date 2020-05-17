@@ -2,7 +2,7 @@
 title = "The Photographer John Szarkowski"
 image = "/images/post/KPT-May9.jpg"
 author = "kai mcbride"
-date = 2020-05-07T05:00:00Z
+date = 2020-05-09T05:00:00Z
 description = "This is meta description"
 categories = ["Kai's Photo Topic"]
 type = "post"
