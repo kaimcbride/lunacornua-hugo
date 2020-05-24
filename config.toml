@@ -103,7 +103,7 @@ image = ""
 
 ######################## Zoom Link ###############################
 [params.zoom]
-enable = true
+enable = false
 title = "The Call of the Derelict, Timeworn, & Weather-Beaten"
 date = "Saturday May 23rd, 7pm Eastern"
 [params.zoom.button]
