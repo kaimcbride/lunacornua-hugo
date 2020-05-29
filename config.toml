@@ -103,13 +103,13 @@ image = ""
 
 ######################## Zoom Link ###############################
 [params.zoom]
-enable = false
-title = "The Call of the Derelict, Timeworn, & Weather-Beaten"
-date = "Saturday May 23rd, 7pm Eastern"
+enable = true
+title = "The Well of Inspiration"
+date = "Saturday May 30th, 7pm Eastern"
 [params.zoom.button]
 enable = true
 label = "Join Zoom Meeting Here"
-link = "https://bit.ly/KPT-May23"
+link = "https://bit.ly/KPT-May30"
 
 ######################## call to action ###############################
 [params.cta]
