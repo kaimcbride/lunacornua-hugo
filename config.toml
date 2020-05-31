@@ -103,7 +103,7 @@ image = ""
 
 ######################## Zoom Link ###############################
 [params.zoom]
-enable = true
+enable = false
 title = "The Well of Inspiration"
 date = "Saturday May 30th, 7pm Eastern"
 [params.zoom.button]
